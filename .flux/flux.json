@@ -1,0 +1,8 @@
+{
+    "author": "@juanpablocs",
+    "date":"{{DATE}}",
+    "paths": {
+        "pre_html": "frontend/jadeflux",
+        "pre_css": "frontend/stylus"
+        }
+}
